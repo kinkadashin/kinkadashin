@@ -1,4 +1,4 @@
-## Opaaa welcome to my profile!!
+## Hi, I'm Lucas!!
 <div align="left">
   <a href="https://github.com/kinkadashin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinkadashin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
