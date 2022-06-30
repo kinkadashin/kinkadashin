@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas!!
-<br><br>
+<br>
 <p>I’m currently studying to be a <strong>Front-End Developer</strong>. Started programming with Python in 2017 when i get a server of game Transformice. Currently studying the about new concepts to improve my knowledge and since then I try to evolve every day. Everything that I am learning, i am implementing in my work.</p>
 
 <h3>Web Development:</h3>
