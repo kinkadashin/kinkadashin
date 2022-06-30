@@ -25,6 +25,11 @@
   <img align="center" alt="Kinka-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Kinka-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div>
+
+<p><strong>Other Languages:</strong></p>
+<div style="display: inline_block">
+  <img align="center" alt="Kinka-Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
   
   ##
  
