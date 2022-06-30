@@ -3,13 +3,15 @@
 <p>I’m currently studying to be a <strong>Front-End Developer</strong>. Started programming with Python in 2017 when i get a server of game Transformice. Currently studying the about new concepts to improve my knowledge and since then I try to evolve every day. Everything that I am learning, i am implementing in my work.</p>
 
 <h3>Web Development:</h3>
+
 <p><strong>Front-End ( I like )</strong></p>
 <div style="display: inline_block">
   <img align="center" alt="Kinka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kinka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kinka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kinka-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+</div><br>
+
 <p><strong>Front-End ( Interest )</strong></p>
 <div style="display: inline_block">
   <img align="center" alt="Kinka-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
