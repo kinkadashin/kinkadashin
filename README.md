@@ -1,5 +1,6 @@
 ## Hi, I'm Lucas!!
 
+<h3>Web Development:</h3>
 <p><strong>Front-End ( I like )</strong></p>
 <div style="display: inline_block">
   <img align="center" alt="Kinka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
